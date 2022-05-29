@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarychris_cn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCmP5GrjZ_vvs2JdYj7eSpVg) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cNYGuMt) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/diarychris) [![Artstation](https://img.shields.io/badge/artstation-%2313AFF0.svg?&logo=artstation&logoColor=white)](https://www.artstation.com/diarychris) [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&logo=itch.io&logoColor=white)](https://diary.itch.io/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaryChris&show_icons=true&count_private=true&include_all_commits=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaryChris&show_icons=true&count_private=true&include_all_commits=true)   -->
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaryChris&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
