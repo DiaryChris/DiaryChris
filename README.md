@@ -6,7 +6,7 @@
 ### Hi there 👋, my name is DiaryChris
 #### I am a Game Developer -->
 
-### I made some indie games & game development tools for fun !
+# I made some indie games & game development tools for fun !
 
 <br>
 
