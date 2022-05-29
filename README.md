@@ -2,10 +2,11 @@
 
 ![Header](./github-header-image.png)
 
-
+<!-- 
 ### Hi there 👋, my name is DiaryChris
-#### I am a Game Developer
-I made some indie games & game develop tools for fun! 
+#### I am a Game Developer -->
+
+**I made some indie games & game develop tools for fun! **
 
 
 
