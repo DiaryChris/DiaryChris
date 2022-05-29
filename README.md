@@ -1,6 +1,6 @@
 
 
-![Header](./github-header-image.png)
+![Header](./github-header-image_0.png)
 
 <!-- 
 ### Hi there 👋, my name is DiaryChris
