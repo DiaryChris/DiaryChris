@@ -10,8 +10,6 @@ Skills: C# / HLSL / JS / PYTHON / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaryChris&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/DiaryChris)  
-
 
 <!--
 **DiaryChris/DiaryChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
