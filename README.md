@@ -1,6 +1,6 @@
 
 
-![Header](./header.png)
+![Header](./github-header-image.png)
 
 
 ### Hi there 👋, my name is DiaryChris
