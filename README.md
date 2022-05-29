@@ -1,3 +1,8 @@
+
+
+![Header](./header.png)
+
+
 ### Hi there 👋, my name is DiaryChris
 #### I am a Game Developer
 I made some indie games & game develop tools for fun
@@ -25,7 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
