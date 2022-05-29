@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 [![Support Server](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/slug/195038)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
